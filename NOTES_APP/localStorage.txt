@@ -1,0 +1,2 @@
+Use querySelector to grab input field content and assign to a variable.
+Assign that variable to localStorage.
